@@ -25,7 +25,7 @@ galleryContainer.addEventListener('click', evt => {
   }
 });
 
-console.log(galleryItems);
+
 console.log(galleryItems);
 
 
