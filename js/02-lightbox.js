@@ -31,4 +31,3 @@ galleryContainer.addEventListener('click', evt => {
 console.log(galleryItems);
 
 
-
